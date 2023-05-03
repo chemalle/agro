@@ -35,7 +35,9 @@ with st.sidebar:
 
     st.sidebar.title("About")
     st.sidebar.info(
-        
+        """
+        A Smart Business mantém total controle sobre a marca Econobilidade
+    """
     )
 
 for app in apps:
